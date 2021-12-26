@@ -27,7 +27,7 @@ public class Main {
             System.out.println(0);
         else
         {
-            for(int j = 0; j<l[n-1]; j++)
+            for(int j = 0; j<2000; j++)
                 {
                     int temp_time = 0;
             for(int i = 0; i<n; i++)
